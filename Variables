@@ -1,0 +1,4 @@
+dim A,B,C,D as single
+A=textbox1
+b=textbox2
+End sub
